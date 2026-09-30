@@ -1,1 +1,1 @@
-st
+start voicefix.bat
